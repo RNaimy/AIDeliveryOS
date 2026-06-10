@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Git
+.git/
+
+# Local working folders
+archive/
+outputs/
+.sixth/
+
+# Future framework content
+framework/
+knowledge-library/
+methodology/
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
